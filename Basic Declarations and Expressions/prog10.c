@@ -14,6 +14,6 @@ int main()
     scanf("%d",&first_int);
     printf("Input the second integer: ");
     scanf("%d",&second_int);
-    printf("Sum of the above two integers = %d", first_int*second_int);
+    printf("Product of the above two integers = %d", first_int*second_int);
     return 0;
 }
