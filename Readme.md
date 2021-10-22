@@ -5,6 +5,6 @@ This repo is for learning C language. It will contain all practice problems whic
 * [Format Specifiers](https://github.com/Anubhav1603/C-basics/blob/master/Basic%20Declarations%20and%20Expressions/format_specifiers.md)
 
 ### __Note__
-- I have collected resources from different places. 
+- I have collected resources from different places.
 
-# Once this repo is done it will be archieved!
+# Once this repo is done it will be archieved!!
