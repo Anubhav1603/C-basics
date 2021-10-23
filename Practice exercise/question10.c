@@ -23,7 +23,7 @@ int main() {
     else if (income>= 600000 && income <= 1000000){
         amount_including_tax = income * 20/100;
     }
-    else if (income>= 1100000){
+    else if (income >= 1100000){
         amount_including_tax = income * 30/100;
     }
     printf("Tax Amount need to pay: Rs.%d\n",amount_including_tax);
