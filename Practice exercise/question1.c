@@ -1,3 +1,4 @@
+//Find area or rectangle
 #include<stdio.h>
 
 int main(){
