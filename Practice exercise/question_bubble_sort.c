@@ -1,3 +1,5 @@
+//Q: Write a short code to implement bubble sort
+
 #include <stdio.h>
 int main()
 {
